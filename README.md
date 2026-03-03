@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there, I'm David! 👋</h1>
 
 ###
 
-<p align="left">Mi nombre es David y soy un apasionado del desarrollo de software y la ciberseguridad enfocado en crear soluciones eficientes, seguras y escalables. Me encanta enfrentar nuevos retos técnicos y, como dice el dicho, "creando bugs desde 2024.</p>
+<p align="left">My name is David, a System Engineer student currently in my 5th semester and a passionate cybersecurity enthusiast. As a member of the DarkWall group, I am focused on learning and building efficient, secure, and scalable solutions. I thrive on tackling new challenges and turning complex problems into robust digital assets while I continue to expand my technical expertise.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creando bugs desde: 2024<br>📚 Actualmente aprendiendo: Arquitectura de software, optimización de bases de datos, integraciones con APIs, Hosting en AWS, Docker y Docker Compose.<br>🎯 Metas: Contribuir a proyectos Open Source de gran impacto, dominar el despliegue en la nube y comenzar mi propio imperio.</p>
+<p align="left">✨ Creating bugs since: 2024<br><br>📚 Currently learning: Software Architecture, Database Optimization, API Integrations, AWS Hosting, Docker, and Docker Compose.<br><br>🎯 Goals: Contributing to high-impact Open Source projects, mastering cloud deployment, and building my own empire.</p>
 
 ###
 
@@ -123,6 +123,12 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=David2421b.David2421b&"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="206" src="./photo/darkwall_logo.jpeg" alt="darkwall logo" />
 </div>
 
 ###
