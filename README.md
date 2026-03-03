@@ -122,13 +122,13 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=David2421b.David2421b&"  />
+  <img width="320" src="./photo/darkwall_logo.jpeg" alt="darkwall logo" />
 </div>
 
 ###
 
 <div align="center">
-  <img height="206" src="./photo/darkwall_logo.jpeg" alt="darkwall logo" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=David2421b.David2421b&"  />
 </div>
 
 ###
