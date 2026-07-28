@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is David, a System Engineer student currently in my 5th semester and a passionate cybersecurity enthusiast. As a member of the DarkWall group, I am focused on learning and building efficient, secure, and scalable solutions. I thrive on tackling new challenges and turning complex problems into robust digital assets while I continue to expand my technical expertise.</p>
+<p align="left">My name is David, a System Engineer student currently in my 6th semester and a passionate cybersecurity enthusiast. As a member of the DarkWall group, I am focused on learning and building efficient, secure, and scalable solutions. I thrive on tackling new challenges and turning complex problems into robust digital assets while I continue to expand my technical expertise.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2024<br><br>📚 Currently learning: Software Architecture, Database Optimization, API Integrations, AWS Hosting, Docker, and Docker Compose.<br><br>🎯 Goals: Contributing to high-impact Open Source projects, mastering cloud deployment, and building my own empire.</p>
+<p align="left">Creating bugs since: 2024<br><br>📚 Currently learning: Web App Development, Database Optimization, API Integrations, AWS Hosting, Git, Docker, and Docker Compose.<br><br>🎯 Goals: Contributing to high-impact Open Source projects, mastering cloud deployment, and building my own empire.</p>
 
 ###
 
@@ -100,6 +100,34 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+</div>
+
+###
+
+<h2 align="left">Certificates</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.boot.dev/certificates/f3d84eef-c397-4a1f-8526-caf4ab329b5d">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f3d84eef-c397-4a1f-8526-caf4ab329b5d.jpeg?v=1776651735" alt="Boot.dev Learn Linux certificate" width="420" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.boot.dev/certificates/bcc9eda8-44ec-44ef-a20a-395c9cd6ca6c">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bcc9eda8-44ec-44ef-a20a-395c9cd6ca6c.jpeg?v=1775341762" alt="Boot.dev Learn Git certificate" width="420" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.boot.dev/certificates/1525985b-c9c6-4c84-a027-48d4a1cb4548">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/1525985b-c9c6-4c84-a027-48d4a1cb4548.jpeg?v=1775328345" alt="Boot.dev Learn Object Oriented Programming in Python certificate" width="420" />
+  </a>
 </div>
 
 ###
